@@ -27,6 +27,19 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![Nobita Stats](https://github-readme-stats.vercel.app/api?username=vishalpandeynkp1&theme=flag-india)
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalpandeynkp1)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishalpandeynkp1&repo=NOBITA-HEROKU&theme=flag-india)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 
 <p align="center">
