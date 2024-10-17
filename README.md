@@ -1,9 +1,14 @@
-━━━━━━━━━━━━━━━━━━━━━━━
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left">
+                                                                                                  🔱      𝐉𝐀𝐈 𝐒𝐇𝐑𝐄𝐄 𝐌𝐀𝐇𝐀𝐊𝐀𝐋       🔱
     
-🇮🇳 Radhe Radhe
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
+[![Vishal's GitHub Profile](https://img.shields.io/badge/GitHub-VishalPandey-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalpandeynkp1)
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+ 
     <b>ᴠɪsɪᴛᴏʀs</b><br>
     <img align="middle" src="https://profile-counter.glitch.me/NOBITA-HEROKU/count.svg" />
 </p>
