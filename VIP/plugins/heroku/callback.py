@@ -7,7 +7,7 @@ from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from pyromod.exceptions import ListenerTimeout
 
-from VIP import app
+from NOBITA import app
 from config import OWNER_ID as SUDOERS
 
 # Import your MongoDB database structure
@@ -16,9 +16,9 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 HEROKU_API_URL = "https://api.heroku.com"
 HEROKU_API_KEY = os.getenv("HEROKU_API_KEY")  # Pre-defined variable
-REPO_URL = "https://github.com/THE-VIP-BOY-OP/VIP-MUSIC"  # Pre-defined variable
+REPO_URL = "https://github.com/vishalpandeynkp1/VIPNOBITAMUSIC_REPO"  # Pre-defined variable
 BUILDPACK_URL = "https://github.com/heroku/heroku-buildpack-python"
-UPSTREAM_REPO = "https://github.com/THE-VIP-BOY-OP/VIP-MUSIC"  # Pre-defined variable
+UPSTREAM_REPO = "https://github.com/vishalpandeynkp1/VIPNOBITAMUSIC_REPO"  # Pre-defined variable
 UPSTREAM_BRANCH = "master"  # Pre-defined variable
 API_ID = os.getenv("API_ID")
 API_HASH = os.getenv("API_HASH")
@@ -39,7 +39,7 @@ async def post(url: str, *args, **kwargs):
         return data
 
 
-async def VIPbin(text):
+async def NOBITAbin(text):
     resp = await post(f"{BASE}api/v2/paste", data=text)
     if not resp["success"]:
         return
@@ -80,7 +80,7 @@ async def is_heroku():
 
 
 async def paste_neko(code: str):
-    return await VIPbin(code)
+    return await NOBITAbin(code)
 
 
 def fetch_app_json(repo_url):
@@ -585,7 +585,7 @@ async def get_app_logs(client, callback_query):
         logs_url = result.get("logplex_url")
         logs = requests.get(logs_url).text
 
-        paste_url = await VIPbin(logs)
+        paste_url = await NOBITAbin(logs)
         await callback_query.answer(
             convert_to_small_caps("Getting Logs..."), show_alert=True
         )
