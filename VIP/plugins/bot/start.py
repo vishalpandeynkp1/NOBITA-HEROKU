@@ -1,6 +1,6 @@
 from pyrogram import filters
 
-from VIP import app
+from NOBITA import app
 
 
 @app.on_message(filters.command(["start"]))
